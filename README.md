@@ -11,7 +11,7 @@
 
 <!-- YOUTUBE:START -->
 - [My Videos](https://www.youtube.com/c/PraveenGandhi-Chennai/videos)
-- [YoYo App buildt with Blazor (aspnet core)](https://www.youtube.com/watch?v=Cnv9Ui4GG0g&t=975s)
+- [YoYo App buildt with Blazor (aspnet core)](https://www.youtube.com/watch?v=Cnv9Ui4GG0g)
 <!-- YOUTUBE:END -->
 
 <!--
